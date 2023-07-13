@@ -8,11 +8,11 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wemerson</groupId>
+	<groupId>com.devsuperior</groupId>
 	<artifactId>dslist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dslist</name>
-	<description>Java Spring</description>
+	<description>Intensivão Java Spring</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
