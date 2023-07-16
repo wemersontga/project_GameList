@@ -1,4 +1,4 @@
-
+package com.wemerson.dslist.entities;
 
 import java.util.Objects;
 
